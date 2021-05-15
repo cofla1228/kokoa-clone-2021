@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    height: 100vh;
+    background-color: tomato;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+.first-square {
+    width: 150px;
+    height: 150px;
+    background-color: #F5DEB3;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+   
+  }
+.second-square {
+    width: 30px;
+    height: 30px;
+    background-color: #008080;
+    border: 3px solid white;  
+}
+
+.third-square {
+    width: 30px;
+    height: 30px;
+    background-color: #008080;
+    border: 3px solid white;  
+
+}
+
+.fourth-square {
+    width: 120px;
+    height: 30px;
+    background-color: #008080;
+    border: 3px dashed white; 
+
+}
